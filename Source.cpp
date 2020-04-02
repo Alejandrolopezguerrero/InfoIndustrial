@@ -8,4 +8,5 @@ void main(void) {
 	pos = strstr(cadena, "cr");
 	strcpy(pos, "cruel");
 	printf("%s",cadena);
+	printf("Hola mundo");
 }
